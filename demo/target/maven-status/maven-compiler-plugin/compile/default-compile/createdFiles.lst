@@ -1,7 +1,0 @@
-com\example\cardgame\model\Boss.class
-com\example\cardgame\web\CardApiController.class
-com\example\cardgame\model\Player.class
-com\example\cardgame\controller\CardGameController.class
-com\example\cardgame\web\WebController.class
-com\example\cardgame\CardGameApplication.class
-com\example\cardgame\model\Card.class
